@@ -2,10 +2,9 @@
 {
 height: 250px;
 width: 500px;
-align-items: center;
-
 }
 body
 {
 background-color: whitesmoke;
+align-items: center;
 }
