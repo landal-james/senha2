@@ -30,5 +30,5 @@ width: 400px;
 height: 100px;
 margin: auto;
 border-radius: 6px;
-border-bottom: rgba(0, 117, 255, 1);
+border-bottom: solid rgba(0, 117, 255, 1);
 }
