@@ -40,11 +40,10 @@ border-bottom: solid rgba(0, 117, 255, 1);
 .config-senha
 {
 background-color: rgba(0, 39, 83, 1);
-width: 400px;
+width: 800px;
 height: max-content;
 margin: auto;
 border-radius: 6px;
-border-bottom: solid rgba(0, 117, 255, 1);
 }
 .check
 {
