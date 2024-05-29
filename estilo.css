@@ -27,5 +27,7 @@ font-size: xx-large;
 {
 background-color: blue;
 width: 400px;
+height: 250px;
 margin: auto;
+border-radius: 2px;
 }
