@@ -35,6 +35,7 @@ border-bottom: solid rgba(0, 117, 255, 1);
 .label
 {
     color: white;
+    font-size: large;
     
 }
 .config-senha
