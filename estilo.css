@@ -27,5 +27,5 @@ font-size: xx-large;
 {
 background-color: blue;
 width: fit-content;
-align-items: center;
+justify-content: center;
 }
