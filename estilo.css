@@ -14,3 +14,10 @@ text-align: center;
 {
 background-color: blue;
 }
+.texto1
+{
+    font-family: "REM", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: <weight>;
+    font-style: normal;
+}
