@@ -35,7 +35,7 @@ border-bottom: solid rgba(0, 117, 255, 1);
 .label
 {
     color: white;
-    margin: auto;
+    
 }
 .config-senha
 {
@@ -45,4 +45,8 @@ height: max-content;
 margin: auto;
 border-radius: 6px;
 border-bottom: solid rgba(0, 117, 255, 1);
+}
+.check
+{
+margin: auto;
 }
