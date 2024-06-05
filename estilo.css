@@ -74,4 +74,12 @@ align-items: center;
   {
 
   }
+  .texto4{
+    font-family: "REM", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: weight;
+    font-style: normal;
+    color: whitesmoke;
+    font-size: x-large;
+  }
   
