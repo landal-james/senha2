@@ -59,3 +59,7 @@ align-items: center;
     color: whitesmoke;
     font-size: xx-large;
 }
+.column-left
+{
+background-color: blue;
+}
