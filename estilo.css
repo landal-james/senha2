@@ -22,7 +22,6 @@ text-align: center;
 {
 color: white;
 font-size: xx-large;
-text-align: left;
 }
 .conteudo-senha
 {
@@ -36,7 +35,7 @@ border-bottom: solid rgba(0, 117, 255, 1);
 .label
 {
     color: white;
-    font-size: x-large;
+    font-size: xx-large;
     
 }
 .config-senha
