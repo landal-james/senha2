@@ -22,12 +22,13 @@ text-align: center;
 {
 color: white;
 font-size: xx-large;
+text-align: left;
 }
 .conteudo-senha
 {
 background-color:rgba(0, 39, 83, 1);
-width: 600px;
-height: 250px;
+width: 700px;
+height: 150px;
 margin: auto;
 border-radius: 6px;
 border-bottom: solid rgba(0, 117, 255, 1);
