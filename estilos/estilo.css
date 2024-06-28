@@ -88,4 +88,15 @@ border-radius: 6px;
 background-color: rgba(0, 39, 83, 1);
 border-color: rgba(0, 39, 83, 1);
   }
- 
+  .container {
+    display: block;
+    position: relative;
+    padding-left: 35px;
+    margin-bottom: 12px;
+    cursor: pointer;
+    font-size: 22px;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+  }
