@@ -3,8 +3,8 @@
 
 :root{
     --borda: #000000;
-    --fundo-texto: #00850d;
-    --fundo-senha: #00850d;
+    --fundo-texto: rgba(0, 39, 83, 1);
+    --fundo-senha:rgba(0, 39, 83, 1);
     --branco: #ffffff;
 }
 
