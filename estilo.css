@@ -28,11 +28,12 @@ body {
     color: white;
 } 
 .subtitulo{
-    font-family: "Jacquard 12", system-ui;
+    font-family: "Lora", serif;
     font-weight: 400;
     font-style: normal;
     font-size: 40px; 
     text-align: center;
+    color: white;
 }
 .texto{
     font-family: "Lora", serif;
