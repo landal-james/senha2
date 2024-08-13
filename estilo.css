@@ -16,6 +16,11 @@ body {
 .cadeado{
     width: 55px;
 }
+
+.textosenha{
+    color: aliceblue;
+
+}
 .conteudo-titulo{
     text-align: center;
     margin-top: 80px;
